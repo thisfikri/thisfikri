@@ -1,5 +1,5 @@
 ### Hi there 👋 i'am Fikri
-I'am a Full Stack developer who likes new things, has web programming skills using CodeIgniter, also i can create full stack mobile applications using ExpressJS & React Native.
+I'am a Full Stack developer who likes new things, i can crate web application using CodeIgniter, also i can create full stack mobile applications using ExpressJS & React Native.
 
 Now i'am a backend developer in Inpoin Gamification :joystick:
 
