@@ -1,7 +1,7 @@
 ### Hi there 👋 i'am Fikri
 I'am a Backend developer who likes new things, i can create API using Nodejs, also i can use Docker & Kubernetes
 
-Now i'am a backend developer in Inpoin Gamification :joystick:
+I'am a backend developer at Divisi Digital Business & Technology Telkom Indonesia
 
 My main programming language is JavaScript
 
