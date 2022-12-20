@@ -1,5 +1,5 @@
 ### Hi there 👋 i'am Fikri
-I'am a Backend developer who likes new things, i can crate API using Nodejs, also i can use Docker & Kubernetes
+I'am a Backend developer who likes new things, i can create API using Nodejs, also i can use Docker & Kubernetes
 
 Now i'am a backend developer in Inpoin Gamification :joystick:
 
