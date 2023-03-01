@@ -31,7 +31,6 @@ My main programming language is JavaScript
 ![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=thisfikri&show_icons=true&count_private=true)
 
 ### Contact:
-* **E-Mail**: fikrihaikal.work@gmail.com
 <!-- * **LinkedIn**: https://www.linkedin.com/in/fikri-haikal-478a24194/ -->
 <!--
 **thisfikri/thisfikri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
