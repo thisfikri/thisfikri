@@ -28,7 +28,7 @@ My main programming language is JavaScript
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
 <!-- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white) -->
 
-![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=thisfikri&show_icons=true&count_private=true)
+<!-- [L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=thisfikri&show_icons=true&count_private=true) -->
 
 <!-- ### Contact: -->
 <!-- * **LinkedIn**: https://www.linkedin.com/in/fikri-haikal-478a24194/ -->
